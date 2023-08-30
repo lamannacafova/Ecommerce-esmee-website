@@ -1,0 +1,132 @@
+.fashion {
+  width: 100%;
+  padding: 20px 0px;
+  background-color: var(--bgColor);
+
+  .access {
+    max-width: 486px;
+    height: 313px;
+    overflow: hidden;
+    position: relative;
+    .accessories {
+      height: 100%;
+      background-image: url("https://esmee.qodeinteractive.com/wp-content/uploads/2021/07/home5-categorie.jpg");
+      background-position: center;
+      background-size: cover;
+      &:hover {
+        transform: scale(1.1);
+        transition: 0.5s;
+      }
+      .title {
+        position: absolute;
+        bottom: 25px;
+        left: 35px;
+        h2 {
+          font-size: 40px;
+          font-weight: 400;
+          letter-spacing: 0.05em;
+          a {
+            cursor: pointer;
+            color: #fff !important;
+          }
+        }
+        h5 {
+          color: #fff;
+          font-size: 16px;
+          font-weight: normal;
+          text-transform: uppercase;
+        }
+      }
+    }
+  }
+
+  .classics {
+    max-width: 486px;
+    height: 313px;
+    overflow: hidden;
+    position: relative;
+    .classic {
+      width: 100%;
+      height: 100%;
+      background-image: url("https://esmee.qodeinteractive.com/wp-content/uploads/2021/07/home5-categorie2.jpg");
+      background-position: center;
+      background-size: cover;
+      &:hover {
+        transform: scale(1.1);
+        transition: 0.5s;
+      }
+      .title {
+        position: absolute;
+        bottom: 25px;
+        left: 35px;
+        h2 {
+          font-size: 40px;
+          font-weight: 400;
+          letter-spacing: 0.05em;
+          a {
+            cursor: pointer;
+            color: #fff !important;
+          }
+        }
+        h5 {
+          color: #fff;
+          font-size: 16px;
+          font-weight: normal;
+          text-transform: uppercase;
+        }
+      }
+    }
+  }
+
+  .trendys {
+    max-width: 486px;
+    height: 313px;
+    overflow: hidden;
+    position: relative;
+    .trendy {
+      width: 100%;
+      height: 100%;
+      background-image: url("https://esmee.qodeinteractive.com/wp-content/uploads/2021/07/home5-categorie3.jpg");
+      background-position: center;
+      background-size: cover;
+      &:hover {
+        transform: scale(1.1);
+        transition: 0.5s;
+      }
+      .title {
+        position: absolute;
+        bottom: 25px;
+        left: 35px;
+        h2 {
+          font-size: 40px;
+          font-weight: 400;
+          letter-spacing: 0.05em;
+          a {
+            cursor: pointer;
+            color: #fff !important;
+          }
+        }
+        h5 {
+          color: #fff;
+          font-size: 16px;
+          font-weight: normal;
+          text-transform: uppercase;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .fashion {
+    .access {
+      padding: 5px;
+    }
+    .classics{
+      padding: 5px;
+    }
+    .trendys {
+      padding: 5px;
+    }
+  }
+}

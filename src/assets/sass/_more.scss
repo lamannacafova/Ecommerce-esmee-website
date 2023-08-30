@@ -1,0 +1,67 @@
+.mores{
+    width: 100%;
+    height: auto;
+    background-color: var(--bgColor);
+    padding-bottom: 80px;
+    .more-page{
+        width: 100%;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        padding: 0 0 0 100px;
+        background-color: #f7f8f9;
+        a{
+            text-decoration: none;
+        }
+        p{
+            color: #333;
+            font-size: 18px;
+            font-weight: 300;
+            letter-spacing: .20em;
+        }
+    }
+    .card{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+        border: none;
+        margin-top: 70px;
+        background-color: var(--bgColor);
+        .card-body{
+            padding-top: 130px;
+        h4{
+            color: var(--color);
+            font-size: 28px;
+            font-weight: 400;
+            letter-spacing: 0.25em;
+            text-transform: uppercase;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        p{
+            font-size: 18px;
+            font-weight: 300;
+            letter-spacing: .05em;
+            color: var(--color);
+        }
+        .price{
+            font-size: 23px;
+            font-weight: 700;
+            margin-top: 20px;
+            color: red;
+        }
+        button{
+            width: 198px;
+            height: 56px;
+            background-color: #000;
+            color: #fff;
+            letter-spacing: .05em;
+            border: none;
+            outline: none;
+            margin-top: 18px;
+            i{
+                margin-left:5px;
+            }
+        }
+        }
+    }
+}

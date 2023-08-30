@@ -1,0 +1,138 @@
+{
+    "header":{
+        "0":"HOME",
+        "1":"ABOUT",
+        "2":"SHOP",
+        "3":"GALLERY",
+        "4":"BIG IMAGES",
+        "5":"SIX COLUMNS",
+        "6":"BLOG",
+        "7":"CONTACT"
+    },
+    "fashion":{
+        "0":"Elegance",
+        "1":"ACCESSORIES",
+        "2":"Classic",
+        "3":"FASHION",
+        "4":"Trendy",
+        "5":"CLOTHES"
+    },
+    "silkdress":{
+        "0":"MATCH COLORS",
+        "1":"Black silk dress",
+        "2":"VIEW MORE"
+    },
+    "whitedress":{
+        "0":"MATCH COLORS",
+        "1":"White wrap dress",
+        "2":"VIEW MORE"
+    },
+    "silkpage":{
+      "0":"Vintage dress",
+      "1":"1 CUSTOMER REVIEW",
+      "2":"SKU:0023",
+      "3":"CATEGORY:FASHION",
+      "4":"TAG:DRESS,YELLOW",
+      "5":"VVIEW MORE",
+      "6":"Releted Products"
+    },
+    "women":{
+        "0":"Urban",
+        "1":"Women"
+    },
+    "collection":{
+        "0":"NEW ITEMS",
+        "1":"Best for the collection"
+    },
+    "spring":{
+        "0":"SPRING COLLECTION",
+        "1":"50% off spring favorites"
+      },
+      "about":{
+       "0":"ESMEE TEAM",
+       "1":"Meet our team",
+       "2":"DESIGNER",
+       "3":"MODEL",
+       "4":"MANAGER",
+       "5":"MEMBERSHIP",
+       "6":"Became part of our team"
+      },
+      "shop":{
+        "0":"Shiny dress",
+        "1":"1 CUSTOMER REVIEW",
+        "2":"Releted Products",
+        "3":"SKU:0046",
+        "4":"CATEGORY:FASHION",
+        "5":"TAG:DRESS",
+        "6":"VIEW MORE"
+      },
+      "design":{
+        "0":"SARAH WIMMER",
+        "1":"Designer",
+        "2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "3":"Mauris eget efficitur quam. Cras pharetra eros mi, finibus",
+        "4":"rutrum ipsum vehicula eget. Mauris vel egestas arcu.",
+        "5":"Nulla hendrerit eros quis lorem bibendum, eu interdum odio hendrerit.",
+        "6":"Ut dolor mi, efficitur sit amet tellus semper, iaculis porttitor odio.",
+        "7":"Suspendisse fringilla justo nulla, hendrerit ullamcorper nulla porta sed.",
+        "8":"Nulla hendrerit eros quis lorem bibendum, eu interdum odio",
+        "9":"hendrerit. Ut dolor mi, efficitur sit amet tellus semper, iaculis porttitor",
+        "10":"odio. Suspendisse fringilla justo nulla, hendrerit ullamcorper nulla porta sed.",
+        "11":"GET 15% OFF",
+        "12":"Apply for your position",
+        "13":"Subscribe to our newsletter and get exclusive offers & promo codes"
+      },
+      "blog":{
+        "0":"FASHION DESIGNER",
+        "1":"Categories",
+        "2":"FASHION",
+        "3":"FASHION WEEK",
+        "4":"NYC",
+        "5":"STYLE",
+        "6":"Recent Posts",
+        "7":"Fashion Designer",
+        "8":"NY Fashion Week",
+        "9":"Amazon Prime Day",
+        "10":"AUGUST 5, 2021",
+        "11":"FASHION",
+        "12":"Colour Shoes to Wear",
+        "13":"READ MORE",
+        "14":"FASHION",
+        "15":"Blue Light What’s the Deal?"
+      },
+      "contact":{
+         "0":"FASHION STORE",
+         "1":"Contact Us",
+         "2":"ADDRESS",
+         "3":"1800 Abbot Kinney Blvd. Unit D & E",
+         "4":"Venice",
+         "5":" CONTACT",
+         "6":"Mobile:",
+         "7":"Hotline:",
+         "8":"Mail:",
+         "9":"HOUR OF OPERATION",
+         "10":"Monday – Friday : 09:00 – 20:00",
+         "11":"Sunday & Saturday: 10:30 – 22:00",
+         "12":"Ask us anything here",
+         "13":"Need a Help?"
+      },
+    "footer":{
+        "5":"Discover",
+        "6":"Fashion News",
+        "7":"Latest products",
+        "8":"Your cart",
+        "9":"Track And Trace",
+        "10":"Wishlist",
+        "11":"Help & Information",
+        "12":"How do I create",
+        "13":"About Store",
+        "14":"Find us easy",
+        "15":"FAQ",
+        "16":"Contact us",
+        "17":"Esmée, a fashion theme especially",
+        "18":"desined for online clothing &",
+        "19":"acessoriy stores.",
+        "20":"For any additional questions feel",
+        "21":"free to contact us here"
+    }
+}

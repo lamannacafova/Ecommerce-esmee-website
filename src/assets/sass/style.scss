@@ -1,0 +1,41 @@
+@import "header";
+@import "slider";
+@import "fashion";
+@import "silkdress";
+@import "sliderfashion";
+@import "whitedress";
+@import "women";
+@import "collection";
+@import "spring";
+@import "about";
+@import "blog";
+@import "cart";
+@import "more";
+@import "wishlist";
+@import "shop";
+@import "contact";
+@import "login";
+@import "error";
+@import "footer";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none !important;
+    color: #000 !important;
+}
+li{
+    list-style: none;
+}
+.dark{
+    --bgColor:#000;
+    --color:#fff;
+    --bgImage:url("https://esmee.qodeinteractive.com/wp-content/uploads/2021/07/logo_light.png")
+}
+.light{
+    --bgColor:#fff;
+    --color:#000;
+    --bgImage:url("https://esmee.qodeinteractive.com/wp-content/uploads/2021/07/logo_dark.png")
+}

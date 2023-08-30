@@ -1,0 +1,30 @@
+.spring {
+  width: 100%;
+  .spring-image {
+   height: 35vh;
+    background-image: url("https://esmee.qodeinteractive.com/wp-content/uploads/2021/08/h5-img7-scaled.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    h6 {
+      color: #fff;
+      font-size: 14px;
+      font-weight: 400;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #fff;
+      font-size: 50px;
+      font-weight: 400;
+      letter-spacing: 0.05em;
+    }
+  }
+}

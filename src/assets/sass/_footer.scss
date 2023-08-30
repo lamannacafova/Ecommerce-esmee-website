@@ -1,0 +1,93 @@
+footer{
+    width: 100%;
+    height: auto;
+    background-color: #141414;
+    padding: 70px 0;
+       h4{
+        color: #fff;
+        font-size: 24px;
+        font-weight: 400;
+        letter-spacing: .05em;
+    }
+        img{
+            width: 120px;
+            height: 37px;
+            margin-bottom: 20px;
+        }
+        p{
+            color: #a0a0a0 !important;
+            font-size:19px !important;
+            line-height: 1.42em;
+            font-weight: 300;
+        }
+    .list{
+        ul{
+            padding: 0;
+            li{
+                color: #a0a0a0;
+                font-size: 19px;
+                font-weight: 300;
+                padding: 5px;
+                a{
+                    color: #a0a0a0 !important;
+                }
+            }
+        }
+    }
+    .email{
+        display: flex;
+        input{
+            width: 320px;
+            height: 54px;
+            background-color: transparent;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            border: 1px solid #949494;
+            padding: 13px 23px;
+            font-size: 17px;
+            font-weight: 400;
+            color: #a0a0a0;
+        }
+        button{
+            margin-left: 3px;
+            width: 98px;
+            height: 53px;
+            background-color:#444444 ;
+            border: none;
+            cursor: pointer;
+            i{
+                font-size: 24px;
+                font-weight: bold;
+                color: #fff;
+            }
+        }
+    }
+    .icons{
+        margin-top: 15px;
+        i{
+            font-size: 20px;
+            padding: 15px;
+            color: #fff;
+        }
+    }
+        p{
+            color: #444444;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 1.7;
+            margin-bottom: 15px;
+        }
+}
+// .vh60{
+//     height: 60vh;
+// }
+// .vh80{
+//     height: 80vh;
+// }
+@media only screen and (max-width:576px){
+    footer{
+        width: 100%;
+        height: auto !important;
+    }
+}

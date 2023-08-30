@@ -1,0 +1,138 @@
+{
+    "header":{
+        "0":"ANA SƏHİFƏ",
+        "1":"HAQQINDA",
+        "2":"MAĞAZA",
+        "3":"QALEREYA",
+        "4":" ŞƏKİLLƏR",
+        "5":"ALTI SÜTUN",
+        "6":"BLOQ",
+        "7":"ƏLAQƏ"
+    },
+    "fashion":{
+        "0":"Zəriflik",
+        "1":"AKSESUARLAR",
+        "2":"Klassik",
+        "3":"MODA",
+        "4":"Trendy",
+        "5":"GEYIMLER"
+    },
+    "silkdress":{
+        "0":"RƏNGLƏRƏ UYĞUN",
+        "1":"Qara ipək paltar",
+        "2":"DAHA ÇOX BAXIN"
+    },
+    "whitedress":{
+        "0":"RƏNGLƏRƏ UYĞUN",
+        "1":"Ağ bükülmə paltar",
+        "2":"DAHA ÇOX BAXIN"
+    },
+    "silkpage":{
+        "0":"Vintage paltar",
+        "1":"1 MÜŞTƏRİ ŞƏRHİ",
+        "2":"SKU:0023",
+        "3":"KATEQORİYA:MODA",
+        "4":"ETİKET:PALYA,SARI",
+        "5":"DAHA ÇOX BAXIN",
+        "6":"Əlaqədar Məhsullar"
+      },
+    "women":{
+        "0":"Şəhər",
+        "1":"Qadınlar"
+    },
+    "collection":{
+        "0":"YENİ ƏŞYALAR",
+        "1":"Kolleksiya üçün ən yaxşısı"
+    },
+     "spring":{
+       "0":"YAZ KOLLEKSİYASI",
+       "1":"Bahar sevimlilərinə 50% endirim"
+     },
+     "about":{
+      "0":"ESMEE KOMANDA",
+      "1":"Komandamızla tanış olun",
+      "2":"DİZAYNER",
+      "3":"MODEL",
+      "4":"MENECER",
+      "5":"ÜZVLÜK",
+      "6":"Komandamızın bir hissəsi oldu"
+     },
+     "shop":{
+       "0":"Parlaq paltar",
+       "1":"1 MÜŞTƏRİ ŞƏRHİ",
+       "2":"Əlaqədar Məhsullar",
+       "3":"SKU:0046",
+       "4":"KATEQORİYA:MODA",
+       "5":"ETİKET: PLAY",
+       "6":"DAHA ÇOX BAXIN"
+     },
+     "design":{
+       "0":"SARAH WIMMER",
+       "1":"Dizayner",
+       "2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+       "3":"Mauris öz məhsuldarlığını əldə edir. Cras pharetra eros mi, son",
+       "4":"rutrum ipsum vehicula eget. Mauris və egestas arcu",
+       "5":"Nulla hendrerit eros quis lorem bibendum, eu interdum odio hendrerit.",
+       "6":"Ut dolor mi, efficitur sit amet tellus semper, iaculis porttitor odio.",
+       "7":"Suspendisse fringilla justo nulla, hendrerit ullamcorper nulla porta sed.",
+       "8":"Nulla hendrerit eros quis lorem bibendum, eu interdum odio",
+       "9":"hendrerit. Ut dolor mi, efficitur sit amet tellus semper, iaculis porttitor",
+       "10":"odio. Suspendisse fringilla justo nulla, hendrerit ullamcorper nulla porta sed.",
+       "11":"15% ENDİRİM ALIN",
+       "12":"Vəzifəniz üçün müraciət edin",
+       "13":"Bülletenimizə abunə olun və eksklüziv təkliflər və promo kodlar əldə edin"
+     },
+     "blog":{
+       "0":"DƏB DİZAYNERİ",
+       "1":"Kateqoriyalar",
+       "2":"MODA",
+       "3":"MODA HƏFTƏSİ",
+       "4":"NYC",
+       "5":"STIL",
+       "6":"Son Mesajlar",
+       "7":"Dəb dizayneri",
+       "8":"NY Moda Həftəsi",
+       "9":"Amazon Baş Günü",
+       "10":"AVQUST 5, 2021",
+       "11":"MODA",
+       "12":"Geyinmək üçün Rəngli Ayaqqabılar",
+       "13":"DAHA ÇOX OXU",
+       "14":"MODA",
+       "15":"Mavi İşıq Nədir?"
+     },
+     "contact":{
+        "0":"FASHION MAĞAZASI",
+        "1":"Bizimlə əlaqə saxlayın",
+        "2":"ÜNVAN",
+        "3":"1800 Abbot Kinney Blvd. D və E bölməsi",
+        "4":"Venesiya",
+        "5":"ƏLAQƏ",
+        "6":"Mobil:",
+        "7":"Qaynar xətt:",
+        "8":"Poçt:",
+        "9":"İŞ SAATI",
+        "10":"Bazar ertəsi - Cümə: 09:00 - 20:00",
+        "11":"Bazar və Şənbə: 10:30-22:00",
+        "12":"Burada bizdən nə soruşun",
+        "13":"Kömək lazımdır?"
+     },
+    "footer":{
+        "5":"Kəşf etmək",
+        "6":"Moda Xəbərləri",
+        "7":"Ən son məhsullar",
+        "8":"Səbətiniz",
+        "9":"İzləyin və İzləyin",
+        "10":"İstək siyahısı",
+        "11":"Yardım & Məlumat",
+        "12":"Necə yaradıram",
+        "13":"Mağaza haqqında",
+        "14":"Bizi asan tapın",
+        "15":"FAQ",
+        "16":"Bizimlə əlaqə saxlayın",
+        "17":"Esmée, xüsusilə moda mövzusu",
+        "18":"onlayn geyim üçün nəzərdə tutulub",
+        "19":"aksesuar mağazaları.",
+        "20":"Əlavə suallar üçün buyurun",
+        "21":"burada bizimlə əlaqə saxlamaq pulsuzdur"
+    }
+}
